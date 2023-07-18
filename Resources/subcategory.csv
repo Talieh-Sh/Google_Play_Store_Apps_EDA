@@ -1,0 +1,120 @@
+Genre id,Genre name
+gen1,Art & Design
+gen2,Art & Design;Pretend Play
+gen3,Art & Design;Creativity
+gen4,Art & Design;Action & Adventure
+gen5,Auto & Vehicles
+gen6,Beauty
+gen7,Books & Reference
+gen8,Business
+gen9,Comics
+gen10,Comics;Creativity
+gen11,Communication
+gen12,Dating
+gen13,Education;Education
+gen14,Education
+gen15,Education;Creativity
+gen16,Education;Music & Video
+gen17,Education;Action & Adventure
+gen18,Education;Pretend Play
+gen19,Education;Brain Games
+gen20,Entertainment
+gen21,Entertainment;Music & Video
+gen22,Entertainment;Brain Games
+gen23,Entertainment;Creativity
+gen24,Events
+gen25,Finance
+gen26,Food & Drink
+gen27,Health & Fitness
+gen28,House & Home
+gen29,Libraries & Demo
+gen30,Lifestyle
+gen31,Lifestyle;Pretend Play
+gen32,Adventure;Action & Adventure
+gen33,Arcade
+gen34,Casual
+gen35,Card
+gen36,Casual;Pretend Play
+gen37,Action
+gen38,Strategy
+gen39,Puzzle
+gen40,Sports
+gen41,Music
+gen42,Word
+gen43,Racing
+gen44,Casual;Creativity
+gen45,Casual;Action & Adventure
+gen46,Simulation
+gen47,Adventure
+gen48,Board
+gen49,Trivia
+gen50,Role Playing
+gen51,Simulation;Education
+gen52,Action;Action & Adventure
+gen53,Casual;Brain Games
+gen54,Simulation;Action & Adventure
+gen55,Educational;Creativity
+gen56,Puzzle;Brain Games
+gen57,Educational;Education
+gen58,Card;Brain Games
+gen59,Educational;Brain Games
+gen60,Educational;Pretend Play
+gen61,Entertainment;Education
+gen62,Casual;Education
+gen63,Music;Music & Video
+gen64,Racing;Action & Adventure
+gen65,Arcade;Pretend Play
+gen66,Role Playing;Action & Adventure
+gen67,Simulation;Pretend Play
+gen68,Puzzle;Creativity
+gen69,Sports;Action & Adventure
+gen70,Educational;Action & Adventure
+gen71,Arcade;Action & Adventure
+gen72,Entertainment;Action & Adventure
+gen73,Puzzle;Action & Adventure
+gen74,Strategy;Action & Adventure
+gen75,Music & Audio;Music & Video
+gen76,Health & Fitness;Education
+gen77,Adventure;Education
+gen78,Board;Brain Games
+gen79,Board;Action & Adventure
+gen80,Board;Pretend Play
+gen81,Casual;Music & Video
+gen82,Role Playing;Pretend Play
+gen83,Entertainment;Pretend Play
+gen84,Video Players & Editors;Creativity
+gen85,Card;Action & Adventure
+gen86,Medical
+gen87,Social
+gen88,Shopping
+gen89,Photography
+gen90,Travel & Local
+gen91,Travel & Local;Action & Adventure
+gen92,Tools
+gen93,Tools;Education
+gen94,Personalization
+gen95,Productivity
+gen96,Parenting
+gen97,Parenting;Music & Video
+gen98,Parenting;Education
+gen99,Parenting;Brain Games
+gen100,Weather
+gen101,Video Players & Editors
+gen102,Video Players & Editors;Music & Video
+gen103,News & Magazines
+gen104,Maps & Navigation
+gen105,Health & Fitness;Action & Adventure
+gen106,Educational
+gen107,Casino
+gen108,Adventure;Brain Games
+gen109,Trivia;Education
+gen110,Lifestyle;Education
+gen111,Books & Reference;Creativity
+gen112,Books & Reference;Education
+gen113,Puzzle;Education
+gen114,Role Playing;Education
+gen115,Role Playing;Brain Games
+gen116,Strategy;Education
+gen117,Racing;Pretend Play
+gen118,Communication;Creativity
+gen119,Strategy;Creativity
