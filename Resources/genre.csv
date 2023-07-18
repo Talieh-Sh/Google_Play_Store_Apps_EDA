@@ -1,0 +1,119 @@
+Genre id,Genre name
+gen1,Sports
+gen2,Social
+gen3,Comics
+gen4,Tools
+gen5,Communication
+gen6,News & Magazines
+gen7,Health & Fitness
+gen8,Education
+gen9,Books & Reference
+gen10,Puzzle
+gen11,Lifestyle
+gen12,Business
+gen13,Shopping
+gen14,Medical
+gen15,Board
+gen16,Finance
+gen17,Action
+gen18,Personalization
+gen19,Casual
+gen20,Arcade
+gen21,Photography
+gen22,Travel & Local
+gen23,Entertainment
+gen24,Dating
+gen25,Productivity
+gen26,Art & Design
+gen27,Simulation
+gen28,Food & Drink
+gen29,Video Players & Editors
+gen30,Racing
+gen31,Adventure
+gen32,House & Home
+gen33,Maps & Navigation
+gen34,Events
+gen35,Educational;Education
+gen36,Education;Education
+gen37,Casino
+gen38,Card
+gen39,Auto & Vehicles
+gen40,Weather
+gen41,Beauty
+gen42,Educational
+gen43,Strategy
+gen44,Music
+gen45,Libraries & Demo
+gen46,Role Playing
+gen47,Trivia
+gen48,Entertainment;Creativity
+gen49,Parenting
+gen50,Casual;Action & Adventure
+gen51,Board;Brain Games
+gen52,Parenting;Music & Video
+gen53,Casual;Pretend Play
+gen54,Travel & Local;Action & Adventure
+gen55,Role Playing;Action & Adventure
+gen56,Education;Pretend Play
+gen57,Word
+gen58,Action;Action & Adventure
+gen59,Educational;Pretend Play
+gen60,Parenting;Education
+gen61,Educational;Brain Games
+gen62,Casual;Creativity
+gen63,Sports;Action & Adventure
+gen64,Puzzle;Creativity
+gen65,Puzzle;Brain Games
+gen66,Education;Music & Video
+gen67,Arcade;Action & Adventure
+gen68,Education;Brain Games
+gen69,Entertainment;Music & Video
+gen70,Racing;Action & Adventure
+gen71,Trivia;Education
+gen72,Entertainment;Brain Games
+gen73,Casual;Brain Games
+gen74,Card;Action & Adventure
+gen75,Education;Creativity
+gen76,Video Players & Editors;Music & Video
+gen77,Art & Design;Creativity
+gen78,Educational;Creativity
+gen79,Art & Design;Pretend Play
+gen80,Simulation;Action & Adventure
+gen81,Books & Reference;Education
+gen82,Health & Fitness;Action & Adventure
+gen83,Entertainment;Pretend Play
+gen84,Role Playing;Pretend Play
+gen85,Casual;Education
+gen86,Strategy;Creativity
+gen87,Simulation;Education
+gen88,Puzzle;Action & Adventure
+gen89,Simulation;Pretend Play
+gen90,Educational;Action & Adventure
+gen91,Casual;Music & Video
+gen92,Adventure;Action & Adventure
+gen93,Arcade;Pretend Play
+gen94,Music;Music & Video
+gen95,Entertainment;Education
+gen96,Education;Action & Adventure
+gen97,Entertainment;Action & Adventure
+gen98,Role Playing;Brain Games
+gen99,Role Playing;Education
+gen100,Adventure;Education
+gen101,Racing;Pretend Play
+gen102,Strategy;Education
+gen103,Art & Design;Action & Adventure
+gen104,Communication;Creativity
+gen105,Strategy;Action & Adventure
+gen106,Parenting;Brain Games
+gen107,Tools;Education
+gen108,Puzzle;Education
+gen109,Lifestyle;Education
+gen110,Board;Action & Adventure
+gen111,Health & Fitness;Education
+gen112,Lifestyle;Pretend Play
+gen113,Adventure;Brain Games
+gen114,Music & Audio;Music & Video
+gen115,Comics;Creativity
+gen116,Video Players & Editors;Creativity
+gen117,Board;Pretend Play
+gen118,Books & Reference;Creativity
